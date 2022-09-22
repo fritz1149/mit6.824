@@ -1,0 +1,5 @@
+2022/09/15 20:54:05 get registered, index is 3
+2022/09/15 20:54:05 Worker: task requested: input filename: pg-huckleberry_finn.txt, task state: 0
+2022/09/15 20:54:06 Worker: after finish, task requested: input filename: , task state: 2
+2022/09/15 20:54:08 Worker: task requested: input filename: intermediate-6.out, task state: 1
+2022/09/15 20:54:09 Worker: after finish, task requested: input filename: , task state: 3

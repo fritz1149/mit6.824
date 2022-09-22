@@ -1,0 +1,5 @@
+2022/09/22 15:46:29 get registered, index is 2
+2022/09/22 15:46:29 Worker: task requested: input filename: pg-frankenstein.txt, task state: 0
+2022/09/22 15:46:29 Worker: after finish, task requested: input filename: pg-metamorphosis.txt, task state: 0
+2022/09/22 15:46:29 Worker: after finish, task requested: input filename: , task state: 2
+2022/09/22 15:46:31 Worker: task requested: input filename: , task state: 3

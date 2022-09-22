@@ -1,0 +1,14 @@
+2022/09/22 15:46:29 get registered, index is 1
+2022/09/22 15:46:29 Worker: task requested: input filename: pg-dorian_gray.txt, task state: 0
+2022/09/22 15:46:29 Worker: after finish, task requested: input filename: pg-sherlock_holmes.txt, task state: 0
+2022/09/22 15:46:29 Worker: after finish, task requested: input filename: mr_intermediate-0.out, task state: 1
+2022/09/22 15:46:29 Worker: after finish, task requested: input filename: mr_intermediate-1.out, task state: 1
+2022/09/22 15:46:30 Worker: after finish, task requested: input filename: mr_intermediate-2.out, task state: 1
+2022/09/22 15:46:30 Worker: after finish, task requested: input filename: mr_intermediate-3.out, task state: 1
+2022/09/22 15:46:30 Worker: after finish, task requested: input filename: mr_intermediate-4.out, task state: 1
+2022/09/22 15:46:30 Worker: after finish, task requested: input filename: mr_intermediate-5.out, task state: 1
+2022/09/22 15:46:30 Worker: after finish, task requested: input filename: mr_intermediate-6.out, task state: 1
+2022/09/22 15:46:30 Worker: after finish, task requested: input filename: mr_intermediate-7.out, task state: 1
+2022/09/22 15:46:31 Worker: after finish, task requested: input filename: mr_intermediate-8.out, task state: 1
+2022/09/22 15:46:31 Worker: after finish, task requested: input filename: mr_intermediate-9.out, task state: 1
+2022/09/22 15:46:31 Worker: after finish, task requested: input filename: , task state: 3

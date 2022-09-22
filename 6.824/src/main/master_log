@@ -1,0 +1,47 @@
+2022/09/22 15:46:29 Coordinator: a worker get registered: 0
+2022/09/22 15:46:29 Coordinator: a worker get registered: 1
+2022/09/22 15:46:29 Coordinator: a worker get registered: 2
+2022/09/22 15:46:29 Coordinator: a worker request: 0, overallState is 0, input filename is pg-being_ernest.txt, ok is true
+2022/09/22 15:46:29 Coordinator: a worker request: 1, overallState is 0, input filename is pg-dorian_gray.txt, ok is true
+2022/09/22 15:46:29 Coordinator: a worker request: 2, overallState is 0, input filename is pg-frankenstein.txt, ok is true
+2022/09/22 15:46:29 Coordinator: a worker get registered: 3
+2022/09/22 15:46:29 Coordinator: a worker request: 3, overallState is 0, input filename is pg-grimm.txt, ok is true
+2022/09/22 15:46:29 Coordinator: a worker finish its work: 0
+2022/09/22 15:46:29 Coordinator: a worker request: 0, overallState is 0, input filename is pg-huckleberry_finn.txt, ok is true
+2022/09/22 15:46:29 Coordinator: a worker finish its work: 2
+2022/09/22 15:46:29 Coordinator: a worker request: 2, overallState is 0, input filename is pg-metamorphosis.txt, ok is true
+2022/09/22 15:46:29 Coordinator: a worker finish its work: 1
+2022/09/22 15:46:29 Coordinator: a worker request: 1, overallState is 0, input filename is pg-sherlock_holmes.txt, ok is true
+2022/09/22 15:46:29 Coordinator: a worker finish its work: 3
+2022/09/22 15:46:29 Coordinator: a worker request: 3, overallState is 0, input filename is pg-tom_sawyer.txt, ok is true
+2022/09/22 15:46:29 Coordinator: a worker finish its work: 2
+2022/09/22 15:46:29 Coordinator: a worker request: 2, overallState is 0, input filename is , ok is false
+2022/09/22 15:46:29 Coordinator: a worker finish its work: 0
+2022/09/22 15:46:29 Coordinator: a worker request: 0, overallState is 0, input filename is , ok is false
+2022/09/22 15:46:29 Coordinator: a worker finish its work: 3
+2022/09/22 15:46:29 Coordinator: a worker request: 3, overallState is 0, input filename is , ok is false
+2022/09/22 15:46:29 Coordinator: a worker finish its work: 1
+2022/09/22 15:46:29 Coordinator: a worker request: 1, overallState is 1, input filename is mr_intermediate-0.out, ok is true
+2022/09/22 15:46:29 Coordinator: a worker finish its work: 1
+2022/09/22 15:46:29 Coordinator: a worker request: 1, overallState is 1, input filename is mr_intermediate-1.out, ok is true
+2022/09/22 15:46:30 Coordinator: a worker finish its work: 1
+2022/09/22 15:46:30 Coordinator: a worker request: 1, overallState is 1, input filename is mr_intermediate-2.out, ok is true
+2022/09/22 15:46:30 Coordinator: a worker finish its work: 1
+2022/09/22 15:46:30 Coordinator: a worker request: 1, overallState is 1, input filename is mr_intermediate-3.out, ok is true
+2022/09/22 15:46:30 Coordinator: a worker finish its work: 1
+2022/09/22 15:46:30 Coordinator: a worker request: 1, overallState is 1, input filename is mr_intermediate-4.out, ok is true
+2022/09/22 15:46:30 Coordinator: a worker finish its work: 1
+2022/09/22 15:46:30 Coordinator: a worker request: 1, overallState is 1, input filename is mr_intermediate-5.out, ok is true
+2022/09/22 15:46:30 Coordinator: a worker finish its work: 1
+2022/09/22 15:46:30 Coordinator: a worker request: 1, overallState is 1, input filename is mr_intermediate-6.out, ok is true
+2022/09/22 15:46:30 Coordinator: a worker finish its work: 1
+2022/09/22 15:46:30 Coordinator: a worker request: 1, overallState is 1, input filename is mr_intermediate-7.out, ok is true
+2022/09/22 15:46:31 Coordinator: a worker finish its work: 1
+2022/09/22 15:46:31 Coordinator: a worker request: 1, overallState is 1, input filename is mr_intermediate-8.out, ok is true
+2022/09/22 15:46:31 Coordinator: a worker finish its work: 1
+2022/09/22 15:46:31 Coordinator: a worker request: 1, overallState is 1, input filename is mr_intermediate-9.out, ok is true
+2022/09/22 15:46:31 Coordinator: a worker finish its work: 1
+2022/09/22 15:46:31 Coordinator: a worker request: 1, overallState is 2, input filename is , ok is false
+2022/09/22 15:46:31 Coordinator: a worker request: 2, overallState is 2, input filename is , ok is false
+2022/09/22 15:46:31 Coordinator: a worker request: 0, overallState is 2, input filename is , ok is false
+2022/09/22 15:46:31 Coordinator: a worker request: 3, overallState is 2, input filename is , ok is false
